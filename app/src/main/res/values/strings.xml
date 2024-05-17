@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">我的电视</string>
-    <string name="title_channel_reversal">换台反转</string>
-    <string name="title_channel_num">换台时显示频道号</string>
-    <string name="check_version">检查更新</string>
-    <string name="title_boot_startup">开机自启</string>
-    <string name="dismiss_error">好的</string>
-    <string name="title_time">显示时间</string>
-    <string name="exit">退出</string>
+    <string name="app_name">MJD TV</string>
+    <string name="title_channel_reversal">reverse channel change</string>
+    <string name="title_channel_num">Display channel number when changing channels</string>
+    <string name="check_version">Check for updates</string>
+    <string name="title_boot_startup">Start automatically at boot</string>
+    <string name="dismiss_error">OK</string>
+    <string name="title_time">display time</string>
+    <string name="exit">quit</string>
 </resources>
